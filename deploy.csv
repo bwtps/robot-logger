@@ -1,2 +1,2 @@
-image,tag,production,ups,result		
-bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
+time,image,tag,production,ups,result		
+null,bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
