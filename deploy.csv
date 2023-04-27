@@ -30,3 +30,4 @@ null,bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
 2023-04-27 13:11:36,bewatec/new_toc_backend,latest,no,16,bewatec/new_toc_backend:latest Up 16 seconds
 2023-04-27 15:04:47,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
 2023-04-27 15:37:18,bewatec/new_toc_backend,latest,no,16,bewatec/new_toc_backend:latest Up 16 seconds
+2023-04-27 19:48:33,bewatec/zdtest,latest,no,(139),bewatec/zdtest:latest Restarting (139) 3 seconds ago
