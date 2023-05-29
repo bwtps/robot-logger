@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-null,bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
-2023-04-24 16:56:05,bewatec/flow-control,dev,no,1,bewatec/flow-control:dev Up 1 second
-2023-04-24 16:56:13,bewatec/bcs_backend_evo,dev,no,1,bewatec/bcs_backend_evo:dev Up 1 second
-2023-04-25 10:20:01,bewatec/new_toc_backend,latest,no,16,bewatec/new_toc_backend:latest Up 16 seconds
-2023-04-25 11:02:24,bewatec/new_toc_backend,latest,no,16,bewatec/new_toc_backend:latest Up 16 seconds
-2023-04-25 11:23:01,bewatec/new_toc_backend,latest,no,16,bewatec/new_toc_backend:latest Up 16 seconds
-2023-04-25 13:10:41,bewatec/new_toc_backend,latest,no,16,bewatec/new_toc_backend:latest Up 16 seconds
-2023-04-25 14:20:29,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-04-25 14:20:53,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-04-25 15:50:27,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
 2023-04-25 15:50:49,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
 2023-04-25 16:05:32,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
 2023-04-25 16:32:40,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
@@ -99,3 +89,4 @@ null,bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
 2023-05-29 12:25:46,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
 2023-05-29 12:54:57,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
 2023-05-29 12:55:32,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
+2023-05-29 14:07:12,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
