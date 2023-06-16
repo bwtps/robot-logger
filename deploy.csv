@@ -98,3 +98,4 @@ time,image,tag,production,ups,result
 2023-06-16 10:04:17,bewatec/flow-control,dev,no,15,bewatec/flow-control:dev Up 15 seconds
 2023-06-16 10:04:31,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
 2023-06-16 16:00:36,bewatec/flow-control,dev,no,15,bewatec/flow-control:dev Up 15 seconds
+2023-06-16 16:01:19,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
