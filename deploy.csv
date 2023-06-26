@@ -2,3 +2,4 @@ time,image,tag,production,ups,result
 null,bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
 2023-06-08 13:54:43,bewatec/bcs_backend,latest,yes,30,bewatec/bcs_backend:latest Up 30 seconds
 2023-06-09 13:41:39,bewatec/bcs_backend,latest,yes,30,bewatec/bcs_backend:latest Up 30 seconds
+2023-06-26 13:07:18,bewatec/bcs_backend,latest,yes,30,bewatec/bcs_backend:latest Up 30 seconds
