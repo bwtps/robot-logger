@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-05-10 12:28:45,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-11 16:14:42,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-11 16:31:25,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-11 17:28:19,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-12 10:17:43,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-12 10:18:31,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-12 14:44:57,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-12 14:45:23,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-12 16:27:27,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-12 17:27:32,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
 2023-05-15 09:00:11,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
 2023-05-16 09:03:44,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
 2023-05-16 09:04:16,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2023-06-29 09:29:12,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
 2023-06-29 10:41:19,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
 2023-06-29 18:58:14,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
+2023-06-30 13:14:22,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
