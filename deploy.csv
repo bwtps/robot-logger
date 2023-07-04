@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-05-15 09:00:11,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-16 09:03:44,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-16 09:04:16,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-16 09:44:43,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-16 09:45:14,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-16 15:48:38,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-16 15:49:00,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-16 15:52:47,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
-2023-05-16 15:53:12,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
-2023-05-16 16:35:57,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
 2023-05-16 16:36:25,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
 2023-05-16 16:47:42,bewatec/flow-control,dev,no,16,bewatec/flow-control:dev Up 16 seconds
 2023-05-16 16:48:13,bewatec/bcs_backend_evo,dev,no,16,bewatec/bcs_backend_evo:dev Up 16 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2023-07-04 11:48:42,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
 2023-07-04 11:48:48,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
 2023-07-04 11:48:58,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
+2023-07-04 13:12:35,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
