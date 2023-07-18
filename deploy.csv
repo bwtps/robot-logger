@@ -91,3 +91,4 @@ time,image,tag,production,ups,result
 2023-07-17 11:02:05,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
 2023-07-17 12:37:22,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
 2023-07-17 13:04:16,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
+2023-07-18 09:17:28,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
