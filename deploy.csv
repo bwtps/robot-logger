@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-06-27 13:57:26,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-06-27 14:08:20,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-06-27 14:09:20,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
-2023-06-27 14:51:28,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-06-27 14:52:31,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
-2023-06-28 11:21:10,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-06-29 09:28:48,bewatec/flow-control,dev,no,15,bewatec/flow-control:dev Up 15 seconds
-2023-06-29 09:29:12,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
-2023-06-29 10:41:19,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
-2023-06-29 18:58:14,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
 2023-06-30 13:14:22,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
 2023-07-03 13:30:51,bewatec/bcs_frontend,utral-low,no,15,bewatec/bcs_frontend:utral-low Up 15 seconds
 2023-07-03 14:07:00,bewatec/bcs_frontend,utral-low,no,15,bewatec/bcs_frontend:utral-low Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2023-08-01 16:53:27,bewatec/bcs_backend,utral-low,no,15,bewatec/bcs_backend:utral-low Up 15 seconds
 2023-08-01 17:06:17,bewatec/bcs_backend,utral-low,no,15,bewatec/bcs_backend:utral-low Up 15 seconds
 2023-08-02 14:35:16,bewatec/bcs_frontend,utral-low,no,15,bewatec/bcs_frontend:utral-low Up 15 seconds
+2023-08-02 16:31:49,bewatec/bcs_frontend,utral-low,no,15,bewatec/bcs_frontend:utral-low Up 15 seconds
