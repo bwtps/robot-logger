@@ -94,3 +94,4 @@ time,image,tag,production,ups,result
 2023-08-11 14:13:55,bewatec/bcs_backend,utral-low,no,15,bewatec/bcs_backend:utral-low Up 15 seconds
 2023-08-11 14:24:41,bewatec/bcs_backend,utral-low,no,15,bewatec/bcs_backend:utral-low Up 15 seconds
 2023-08-15 10:10:39,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
+2023-08-15 10:10:48,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
