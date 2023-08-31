@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-07-10 13:22:50,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
-2023-07-10 14:29:51,bewatec/bcs_frontend,utral-low,no,15,bewatec/bcs_frontend:utral-low Up 15 seconds
-2023-07-11 16:10:19,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
-2023-07-12 09:17:42,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
-2023-07-12 09:17:52,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
-2023-07-12 09:17:59,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
-2023-07-12 13:53:13,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-07-13 14:01:39,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
-2023-07-13 15:00:14,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
-2023-07-17 11:02:05,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
 2023-07-17 12:37:22,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
 2023-07-17 13:04:16,bewatec/bcc_backend,latest,no,15,bewatec/bcc_backend:latest Up 15 seconds
 2023-07-18 09:17:28,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2023-08-30 16:50:13,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2023-08-31 15:12:25,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2023-08-31 15:48:55,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
+2023-08-31 21:13:47,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
