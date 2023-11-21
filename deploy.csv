@@ -96,3 +96,4 @@ time,image,tag,production,ups,result
 2023-11-20 14:10:12,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
 2023-11-20 14:10:24,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
 2023-11-20 14:20:40,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
+2023-11-21 08:56:12,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
