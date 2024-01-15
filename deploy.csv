@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-09-14 15:21:03,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-09-15 13:01:19,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-09-15 14:25:11,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2023-09-15 14:25:22,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-09-15 14:35:09,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-09-15 14:42:13,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2023-09-15 14:42:17,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-09-15 14:54:50,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-09-15 14:54:57,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2023-09-15 14:59:01,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2023-09-15 14:59:20,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2023-09-15 15:05:14,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2023-09-15 15:05:24,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2023-12-20 14:25:52,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
 2024-01-02 17:05:06,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
 2024-01-15 16:08:30,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
+2024-01-15 16:08:35,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
