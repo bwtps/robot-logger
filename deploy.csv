@@ -98,3 +98,4 @@ time,image,tag,production,ups,result
 2023-12-20 14:06:44,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
 2023-12-20 14:25:52,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
 2024-01-02 17:05:06,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
+2024-01-15 16:08:30,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
