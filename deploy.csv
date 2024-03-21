@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-10-20 16:08:25,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2023-10-20 16:08:40,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-10-20 16:16:38,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2023-10-20 16:16:52,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-10-20 16:49:58,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2023-10-20 16:50:11,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-10-23 16:16:52,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2023-11-09 14:36:23,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-11-13 17:06:21,bewatec/bcs_backend_evo,dev,no,15,bewatec/bcs_backend_evo:dev Up 15 seconds
-2023-11-14 11:47:45,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
 2023-11-14 12:31:45,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
 2023-11-14 12:43:54,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
 2023-11-14 12:50:55,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-03-21 08:58:17,bewatec/xbb-scheduler-sync,dev,no,15,bewatec/xbb-scheduler-sync:dev Up 15 seconds
 2024-03-21 08:58:25,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-03-21 09:13:32,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
+2024-03-21 10:39:03,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
