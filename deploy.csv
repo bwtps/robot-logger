@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2023-11-14 12:31:45,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-11-14 12:43:54,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-11-14 12:50:55,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-11-14 12:56:29,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-11-20 14:10:12,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
-2023-11-20 14:10:24,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
-2023-11-20 14:20:40,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
-2023-11-21 08:56:12,bcs_evo_frontend,dev,no,15,bcs_evo_frontend:dev Up 15 seconds
-2023-12-08 11:20:16,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
-2023-12-08 11:20:29,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
 2023-12-12 08:58:30,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
 2023-12-12 08:58:40,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
 2023-12-20 09:02:13,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-03-25 10:01:46,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
 2024-03-25 11:06:47,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-03-25 13:09:49,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
+2024-03-25 14:38:35,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
