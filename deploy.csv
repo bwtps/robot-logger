@@ -95,3 +95,4 @@ time,image,tag,production,ups,result
 2024-04-02 20:25:42,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-04-02 20:35:23,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-04-02 21:06:24,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
+2024-04-07 17:07:59,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
