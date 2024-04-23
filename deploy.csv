@@ -98,3 +98,4 @@ time,image,tag,production,ups,result
 2024-04-23 15:06:46,bewatec/jiayi_device_frontend,latest,no,15,bewatec/jiayi_device_frontend:latest Up 15 seconds
 2024-04-23 15:49:45,bewatec/xbb-scheduler-stat,dev,no,(139),bewatec/xbb-scheduler-stat:dev Restarting (139) 3 seconds ago
 2024-04-23 16:14:55,bewatec/xbb-scheduler-stat,dev,no,(139),bewatec/xbb-scheduler-stat:dev Restarting (139) 3 seconds ago
+2024-04-23 16:26:43,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
