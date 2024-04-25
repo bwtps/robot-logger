@@ -95,3 +95,4 @@ time,image,tag,production,ups,result
 2024-04-24 13:04:36,bewatec/xbb-scheduler-stat,dev,no,(139),bewatec/xbb-scheduler-stat:dev Restarting (139) 3 seconds ago
 2024-04-24 14:56:36,bewatec/xbb-scheduler-stat,dev,no,(139),bewatec/xbb-scheduler-stat:dev Restarting (139) 1 second ago
 2024-04-25 09:25:50,bewatec/xbb-scheduler-sync,dev,no,15,bewatec/xbb-scheduler-sync:dev Up 15 seconds
+2024-04-25 09:26:02,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
