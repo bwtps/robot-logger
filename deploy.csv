@@ -98,3 +98,4 @@ time,image,tag,production,ups,result
 2024-05-06 13:56:43,bewatec/xbb-scheduler-sync,dev,no,15,bewatec/xbb-scheduler-sync:dev Up 15 seconds
 2024-05-06 13:57:00,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-05-06 14:58:28,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
+2024-05-06 15:18:01,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
