@@ -70,3 +70,4 @@ null,bewatec/zdtest,latest,no,1,bewatec/zdtest:latest Up 1 second
 2024-05-15 10:22:53,bewatec/bcs_frontend,latest,yes,30,bewatec/bcs_frontend:latest Up 30 seconds
 2024-05-15 14:34:47,bewatec/bcs_frontend,latest,yes,30,bewatec/bcs_frontend:latest Up 30 seconds
 2024-05-28 13:20:21,bewatec/bcs_backend,latest,yes,(139),bewatec/bcs_backend:latest Restarting (139) Less than a second ago
+2024-05-28 13:28:12,bewatec/bcs_backend,latest,yes,(139),bewatec/bcs_backend:latest Restarting (139) Less than a second ago
