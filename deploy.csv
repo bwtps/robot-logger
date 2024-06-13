@@ -93,3 +93,4 @@ time,image,tag,production,ups,result
 2024-06-11 08:54:15,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-06-12 10:06:42,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
 2024-06-13 12:43:51,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
+2024-06-13 17:17:09,bewatec/bcs-v2-maint-backend,dev,no,(139),bewatec/bcs-v2-maint-backend:dev Restarting (139) 3 seconds ago
