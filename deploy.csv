@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-05-16 15:33:26,bewatec/xbb-scheduler-sync,dev,no,15,bewatec/xbb-scheduler-sync:dev Up 15 seconds
-2024-05-16 15:33:35,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
-2024-05-16 16:24:42,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
-2024-05-16 16:24:55,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-05-16 16:41:28,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-05-16 16:44:43,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-05-16 17:09:28,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-05-16 17:22:12,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-05-16 17:33:05,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-05-17 11:21:36,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
 2024-05-20 13:50:57,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-05-20 14:27:11,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-05-20 15:38:43,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-06-17 09:56:15,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-06-17 11:10:51,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
 2024-06-17 11:14:07,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
+2024-06-17 11:19:54,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
