@@ -98,3 +98,4 @@ time,image,tag,production,ups,result
 2024-06-14 15:54:41,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-06-17 09:56:15,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-06-17 11:10:51,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
+2024-06-17 11:14:07,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
