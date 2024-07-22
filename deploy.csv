@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-06-11 08:54:07,bewatec/xbb-scheduler-sync,dev,no,15,bewatec/xbb-scheduler-sync:dev Up 15 seconds
-2024-06-11 08:54:15,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-06-12 10:06:42,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
-2024-06-13 12:43:51,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
-2024-06-13 17:17:09,bewatec/bcs-v2-maint-backend,dev,no,(139),bewatec/bcs-v2-maint-backend:dev Restarting (139) 3 seconds ago
-2024-06-14 09:04:48,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-06-14 15:54:41,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-06-17 09:56:15,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-06-17 11:10:51,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
-2024-06-17 11:14:07,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
 2024-06-17 11:19:54,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
 2024-06-17 12:08:41,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
 2024-06-18 09:29:52,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-07-22 14:47:49,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-07-22 14:52:17,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-07-22 15:28:06,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
+2024-07-22 16:31:55,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
