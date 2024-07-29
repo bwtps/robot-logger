@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-06-19 15:57:07,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
-2024-06-19 16:18:30,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
-2024-06-20 10:41:08,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-06-20 13:08:29,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
-2024-06-20 14:35:35,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
-2024-06-21 15:22:49,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
-2024-06-21 17:15:51,bewatec/ht-qst-midman-listener,latest,no,15,bewatec/ht-qst-midman-listener Up 15 seconds
-2024-06-26 13:19:58,bewatec/xbb-scheduler-sync,dev,no,15,bewatec/xbb-scheduler-sync:dev Up 15 seconds
-2024-06-26 13:20:18,bewatec/xbb-scheduler-stat,dev,no,15,bewatec/xbb-scheduler-stat:dev Up 15 seconds
-2024-06-26 13:20:25,bewatec/xbb-ext-api,dev,no,15,bewatec/xbb-ext-api:dev Up 15 seconds
 2024-07-02 09:17:12,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
 2024-07-02 09:17:19,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
 2024-07-02 15:51:39,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-07-29 09:58:41,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-07-29 10:50:02,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-07-29 10:55:07,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
+2024-07-29 11:16:03,bewatec/jiayi_device_frontend,latest,no,15,bewatec/jiayi_device_frontend:latest Up 15 seconds
