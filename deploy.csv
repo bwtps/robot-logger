@@ -95,3 +95,4 @@ time,image,tag,production,ups,result
 2024-08-01 15:31:41,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-08-01 15:31:50,bewatec/bcs-v2-maint-backend,dev,no,(139),bewatec/bcs-v2-maint-backend:dev Restarting (139) 3 seconds ago
 2024-08-01 16:14:08,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
+2024-08-01 16:36:57,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
