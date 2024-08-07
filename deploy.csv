@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-07-29 14:35:26,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-29 15:51:30,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-29 16:59:31,bewatec/jiayi_device_frontend,latest,no,15,bewatec/jiayi_device_frontend:latest Up 15 seconds
-2024-07-29 17:56:21,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-29 18:37:25,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-30 09:11:42,bewatec/jiayi_device_frontend,latest,no,15,bewatec/jiayi_device_frontend:latest Up 15 seconds
-2024-07-30 09:21:18,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-30 09:32:34,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-30 10:05:35,bewatec/jiayi_device_frontend,latest,no,15,bewatec/jiayi_device_frontend:latest Up 15 seconds
-2024-07-30 10:21:27,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-07-30 11:21:33,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
 2024-07-30 12:53:23,bewatec/jiayi_device_frontend,latest,no,15,bewatec/jiayi_device_frontend:latest Up 15 seconds
 2024-07-30 13:02:10,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-08-07 16:06:57,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-08-07 16:46:40,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-08-07 16:47:32,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
+2024-08-07 16:48:51,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
