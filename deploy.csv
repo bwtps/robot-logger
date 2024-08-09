@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-07-31 08:23:05,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-31 08:25:40,bewatec/jiayi_device_backend,latest,no,15,bewatec/jiayi_device_backend:latest Up 15 seconds
-2024-07-31 08:52:01,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-07-31 15:10:48,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-07-31 15:15:27,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-08-01 08:53:38,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-08-01 09:00:51,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-08-01 09:07:26,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-08-01 09:51:56,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
-2024-08-01 10:05:53,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
 2024-08-01 10:12:34,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
 2024-08-01 10:14:57,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
 2024-08-01 11:07:47,bewatec/smart-ward,latest,no,15,bewatec/smart-ward Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-08-08 15:22:38,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2024-08-08 15:22:50,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-08-08 16:33:30,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
+2024-08-09 11:03:07,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
