@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-08-05 16:20:36,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-05 16:20:49,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2024-08-06 09:28:37,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
-2024-08-06 09:30:11,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2024-08-06 09:30:28,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-06 09:40:07,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-06 09:50:50,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
-2024-08-06 09:52:46,bewatec/bcs-v2-maint-backend,dev,no,16,bewatec/bcs-v2-maint-backend:dev Up 16 seconds
-2024-08-06 09:52:58,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-06 09:54:22,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-08-06 09:54:32,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2024-08-06 12:41:49,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
 2024-08-06 12:43:40,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-08-13 13:18:57,bewatec/hospitial_terminal,latest,no,15,bewatec/hospitial_terminal Up 15 seconds
 2024-08-13 13:40:14,bewatec/hospitial_terminal,latest,no,15,bewatec/hospitial_terminal Up 15 seconds
 2024-08-13 13:46:29,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
+2024-08-13 13:48:27,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
