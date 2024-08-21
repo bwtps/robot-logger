@@ -92,3 +92,4 @@ time,image,tag,production,ups,result
 2024-07-17 15:31:22,bewatec/bcs_frontend,latest,yes,30,bewatec/bcs_frontend:latest Up 30 seconds
 2024-07-17 15:45:26,bewatec/bcs_frontend,latest,yes,30,bewatec/bcs_frontend:latest Up 30 seconds
 2024-07-17 16:21:26,bewatec/bcs_backend,latest,yes,30,bewatec/bcs_backend:latest Up 30 seconds
+2024-08-21 09:53:23,bewatec/bcs_backend,latest,yes,30,bewatec/bcs_backend:latest Up 30 seconds
