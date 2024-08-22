@@ -96,3 +96,4 @@ time,image,tag,production,ups,result
 2024-08-22 15:34:49,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
 2024-08-22 16:38:08,bewatec/hospitial_nurse,latest,no,15,bewatec/hospitial_nurse Up 15 seconds
 2024-08-22 16:56:10,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
+2024-08-22 16:58:13,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
