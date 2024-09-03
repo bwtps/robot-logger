@@ -97,3 +97,4 @@ time,image,tag,production,ups,result
 2024-09-03 15:28:05,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-09-03 16:01:56,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-09-03 16:19:21,bewatec/hospitial_admin,latest,no,15,bewatec/hospitial_admin Up 15 seconds
+2024-09-03 16:46:28,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
