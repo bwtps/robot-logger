@@ -97,3 +97,4 @@ time,image,tag,production,ups,result
 2024-09-04 12:57:13,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2024-09-04 12:57:24,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-09-04 13:40:35,bewatec/hospitial_nurse,latest,no,15,bewatec/hospitial_nurse Up 15 seconds
+2024-09-04 14:08:44,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
