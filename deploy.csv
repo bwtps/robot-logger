@@ -97,3 +97,4 @@ time,image,tag,production,ups,result
 2024-09-04 16:44:19,bewatec/hospitial_bigview,latest,no,15,bewatec/hospitial_bigview Up 15 seconds
 2024-09-05 10:53:57,bewatec/hospitial_bigview,latest,no,15,bewatec/hospitial_bigview Up 15 seconds
 2024-09-05 13:42:30,bewatec/new_toc_backend,latest,no,15,bewatec/new_toc_backend:latest Up 15 seconds
+2024-09-05 13:42:36,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
