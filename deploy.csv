@@ -90,3 +90,4 @@ time,image,tag,production,ups,result
 2024-09-05 13:42:36,bewatec/new_toc_mqttservice,latest,no,15,bewatec/new_toc_mqttservice:latest Up 15 seconds
 2024-09-05 13:42:44,bewatec/new_toc_adminbackend,latest,no,15,bewatec/new_toc_adminbackend:latest Up 15 seconds
 2024-09-05 14:23:13,bewatec/schedule-algo,latest,no,15,bewatec/schedule-algo Up 15 seconds
+2024-09-05 14:29:14,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
