@@ -1,14 +1,4 @@
 time,image,tag,production,ups,result		
-2024-08-29 13:51:35,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
-2024-08-29 13:53:48,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-29 13:54:01,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2024-08-29 14:49:07,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
-2024-08-29 14:51:16,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-29 14:51:27,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
-2024-08-29 14:51:51,bewatec/hospitial_bigview,latest,no,15,bewatec/hospitial_bigview Up 15 seconds
-2024-08-29 15:10:26,bewatec/hospitial_admin,latest,no,15,bewatec/hospitial_admin Up 15 seconds
-2024-08-29 15:12:41,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
-2024-08-29 15:14:48,bewatec/bcs-v2-distributor,dev,no,15,bewatec/bcs-v2-distributor:dev Up 15 seconds
 2024-08-29 15:15:08,bewatec/hospitial_nurse,latest,no,15,bewatec/hospitial_nurse Up 15 seconds
 2024-08-29 15:17:01,bewatec/bcs-v2-maint-backend,dev,no,15,bewatec/bcs-v2-maint-backend:dev Up 15 seconds
 2024-08-29 15:23:31,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
@@ -99,3 +89,4 @@ time,image,tag,production,ups,result
 2024-09-20 15:56:12,bewatec/hospitial_terminal,latest,no,15,bewatec/hospitial_terminal Up 15 seconds
 2024-09-23 15:44:57,bewatec/bcs-v2-ws-backend,dev,no,15,bewatec/bcs-v2-ws-backend:dev Up 15 seconds
 2024-09-24 13:48:56,bewatec/hospitial_nurse,latest,no,15,bewatec/hospitial_nurse Up 15 seconds
+2024-09-24 14:12:40,bewatec/hospitial_nurse,latest,no,15,bewatec/hospitial_nurse Up 15 seconds
