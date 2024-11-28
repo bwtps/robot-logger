@@ -96,3 +96,4 @@ time,image,tag,production,ups,result
 2024-09-05 14:16:51,bewatec/health-care-3rd-api-handler,dev,yes,30,bewatec/health-care-3rd-api-handler:dev Up 30 seconds
 2024-09-05 14:17:22,bewatec/health-care-3rd-api-backend,dev,yes,30,bewatec/health-care-3rd-api-backend:dev Up 30 seconds
 2024-09-10 10:08:14,bewatec/bcs_frontend,latest,yes,30,bewatec/bcs_frontend:latest Up 30 seconds
+2024-11-28 16:42:07,bewatec/bcs_frontend,latest,yes,30,bewatec/bcs_frontend:latest Up 30 seconds
